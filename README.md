@@ -4,7 +4,7 @@ Utility function to add simple mathematical expressions.
 
 ## Installation
 ```
-git clone [repo];
+git clone [repo]
 npm install
 ```
 Add the following import to your code:
